@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 13 02:02:01 2023
-
 @author: thieu
 """
+#Le fichier ratio compte le nombre de vélos de chaque type dans chaque ville et calcule le ratio.
 
 import json
 import urllib
